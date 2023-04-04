@@ -28,8 +28,28 @@ I am an IT graduate...Seeking for Job <img src="https://media.giphy.com/media/WU
 
 - :telescope: I’m working as a Software Engineer and currently enhancing skill to become Data Analyst.
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: Exploring tools for Visualisation.
 
-- :zap: In my free time, I learn about tools for Visualisation.
+- :zap: In my free time, I do Courses related to Data science.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-ignatius-blue?style=flat&logo=Linkedin&logoColorwhite)](https://www.linkedin.com/in/ignatius-charles-39b958140/)
+
+---
+
+### :hammer_and_wrench: Languages and Tools :
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" title="Anaconda" alt="Anaconda" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" title="Jupyter"  alt="Jupyter" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/kaggle/kaggle-original.svg" title="Kaggle"  alt="Kaggle" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="Numpy"  alt="Numpy" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas"  alt="Pandas" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" title="Pycharm"  alt="pycharm" width="40" height="40"/>&nbsp; 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="40" height="40"/>&nbsp;
+</div>
+
+---
+
+### :fire: My Stats :
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Ignatius306&theme=tokyonight&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
